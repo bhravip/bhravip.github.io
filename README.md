@@ -1,5 +1,3 @@
-# bhravip.github.io
-
 # Bhravi Prajapati
 Welcome to my personal portfolio! I’m a Computer Science student @ McMaster University.
 
